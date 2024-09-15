@@ -4,7 +4,7 @@ date: 2024-08-27 14:50:20
 tags:
 ---
 
-![](uploads/only _my_railgun.jpg)
+![](uploads/only_my_railgun.jpg)
 
 <pre>
 
