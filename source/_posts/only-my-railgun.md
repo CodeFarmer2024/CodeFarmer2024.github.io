@@ -4,10 +4,11 @@ date: 2024-08-27 14:50:20
 tags:
 ---
 
+![](uploads/only _my_railgun.jpg)
 
 <pre>
 
-ha na te ko ko ro ni ki zan da yu me wo mi rai sa e o ki sa ri ni shi te
+    ha na te ko ko ro ni ki zan da yu me wo mi rai sa e o ki sa ri ni shi te
 　　放(はな)て！心(こころ)に刻(きざ)んだ梦(ゆめ) を未来(みらい)さえ置(お)き去(ざ)りにして
 　　放飞铭刻于心底的梦想和未来 即使将未来弃之不理又何妨
 　　gen ka i na do shi ra nai i mi nai
