@@ -4,6 +4,7 @@ title: >-
   up a high-paying job?
 date: 2024-09-27 17:16:18
 tags: [layoffs, resignation]
+categories: job
 ---
 
 >> Steve Jobs delivered a renowned speech at Stanford University's graduation ceremony, where he said: "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life."
@@ -44,13 +45,13 @@ tags: [layoffs, resignation]
 
 ## 4. Minimizing Impact on My Team
 
-+ Having lost enthusiasm for my work, I still met daily business requirements but lacked any extra output. To lessen the impact on my team's year-end performance, I felt that leaving mid-year would be beneficial for both sides.
++ Having lost enthusiasm for my work, I met daily business requirements but lacked any extra output. To minimize the impact on my team’s year-end performance, I felt that leaving mid-year would be beneficial for everyone.
 
 # Why I'm Not Worried About the Negative Effects of Leaving
 
 ## 1. No immediate financial pressures
 
-+ Having worked for a decade, I've built a reasonable financial cushion. Although I currently lack other income sources, I’m not overly concerned about finances in the short term; I believe I can manage for a year or two.
++ After a decade of work, I've built up a solid financial cushion. Although I currently don’t have other sources of income, I'm not overly worried about finances in the short term; I believe I can get by for a year or two.
 
 ## 2. A Broader Perspective
 
@@ -58,7 +59,7 @@ tags: [layoffs, resignation]
 
 + Looking at this period from a future perspective, I’m willing to consider what seems like an irrational choice now could be the right one. Of course, it might also be wrong, but I'm ready to accept that risk.
 
-+ Work can sometimes serve as an escape from life. Many people resist change and lack the energy to contemplate it, drifting through life while overlooking important matters. I often ponder what I would do if I weren’t under financial pressure. At this point, I wouldn't choose to maintain the status quo. In the long run, money is just a number; it's quite sad to spend years earning it for things we don’t enjoy without daring to let go. As I grow older, I find myself reevaluating the meaning of life, health, and the loss of loved ones.
++ Work can sometimes serve as an escape from life. Many people resist change and lack the energy to reflect on it, drifting through life and overlooking important issues. I often wonder what I would do if I weren't under financial pressure. At this point, I wouldn't choose to maintain the status quo. In the long run, money is just a number; it's quite sad to spend years earning it for things we don’t enjoy without daring to let go. As I age, I find myself reevaluating the meaning of life, health, and the loss of loved ones.
 
 ## 3. Rejecting the Notion That Money Equals Success
 
