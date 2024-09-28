@@ -20,14 +20,14 @@ tags: [layoffs, resignation]
 # Introduction
 + Regarding "high salary": While my base salary before leaving wasn't particularly high compared to top-tier levels, when factoring in recent bonuses and the potential future value of stock options, my annual earnings exceeded 800,000 RMB. In my view, this qualifies as a high salary, though opinions may vary.
 
-+ Regarding "foolish": Before leaving, I worked at a large, profitable publicly traded company. Although my title was just that of a regular engineer, I led a small team in a dotted-line capacity. My day-to-day involved coding, along with some technical design and code review responsibilities. Given my familiarity with the business and my past strong performance, I felt secure from layoffs unless there were major upheavals in the company. I believed I could last at least another year or two.
++ Regarding "foolish": Before leaving, I worked at a large, profitable publicly listed company. Although my title was just that of a regular engineer, I led a small team in a dotted-line capacity. My day-to-day involved coding, along with some technical design and code review responsibilities. Given my familiarity with the business and my past strong performance, I felt secure from layoffs unless there were major upheavals in the company. I believed I could last at least another year or two.
 
 
 # Why I Decided to Leave
 
 ## 1. Lack of Fulfillment and Value in My Work
 
-+ Have you ever read "Bullshit Jobs"? I found that my job fit that description perfectly. Ineffective overtime, meaningless tasks, and a lack of personal growth, combined with the subtle and complex dynamics of workplace relationships, left me feeling frustrated. Recently, I came across a quote that resonated with me: "We work to become, not to acquire."
++ Have you read the book "Bullshit Jobs"? I found that my job fit that description perfectly. Ineffective overtime, meaningless tasks, and a lack of personal growth, combined with the subtle and complex dynamics of workplace relationships, left me feeling frustrated. Recently, I came across a quote that resonated with me: "We work to become, not to acquire."
 
 + I grew weary of the pointless grind. While some excel at time and energy management, I realized it was best for me to leave at the right moment.
 
