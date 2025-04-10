@@ -4,10 +4,6 @@ date: 2025-04-10 19:04:19
 tags: [Loneliness, LifeStruggles, WorkplacePressure, EmotionalStruggles]
 ---
 
-很高兴你喜欢这个故事！下面是英文版的翻译：
-
----
-
 **"Stephen and Anna"**
 
 Stephen's apartment was in an old building from the late 19th century, seven stories, no elevator. The fatigue of life piled up with each creaky step he took, each ascent felt like a reminder that he was sinking into an indescribable predicament. Sometimes, he thought about climbing the stairs to improve his health, but in the end, he always compromised. Life, like his body, seemed to quietly surrender.
