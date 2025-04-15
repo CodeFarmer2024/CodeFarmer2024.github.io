@@ -3,4 +3,5 @@ title: about
 date: 2024-09-15 13:29:35
 ---
 
-+ todo
++ medium: https://medium.com/@codefarmer2zero24
++ substack: https://substack.com/@codefarmer2zero24
