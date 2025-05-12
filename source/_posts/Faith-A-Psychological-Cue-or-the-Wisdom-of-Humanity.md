@@ -56,7 +56,7 @@ What matters most is not whether you have faith, but whether your faith helps yo
 
 # Picture
 
-![Tevez_Rooney_Cristiano](uploads/Tevez_Rooney_Cristiano.jpg)
+![Tevez, Rooney, Ronaldo Trio, 2008](uploads/Tevez_Rooney_Cristiano.jpg)
 + Wearing the iconic red of Manchester United, No. 32 Tevez, No. 10 Rooney, and No. 7 Ronaldo walk off the pitch side by side. They were the fearsome attacking trio that struck terror into every defense.
 
 

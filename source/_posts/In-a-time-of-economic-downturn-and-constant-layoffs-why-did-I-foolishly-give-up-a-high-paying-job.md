@@ -94,7 +94,7 @@ categories: job
 
 # Picture
 
-![Don't shoot, No, Vinny, no!](uploads/kompany_goal_leicester.jpg)
+![Vincent Kompany's Screamer, 2019](uploads/kompany_goal_leicester.jpg)
 
 + Don't shoot, No, Vinny, no!
 + The 70th minute of the Manchester City vs. Leicester City match in the 37th round of the 2018-2019 Premier League season

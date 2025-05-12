@@ -75,7 +75,7 @@ We long for the past not because we are weak, but because in the face of complex
 
 # Picture
 
-![Zlatan_Sweden_England](uploads/Zlatan_Sweden_England.jpg)
+![Zlatan Ibrahimović Bicycle Kick, 2012](uploads/Zlatan_Sweden_England.jpg)
 + On November 14, 2012, during a friendly match against England in Stockholm, Zlatan Ibrahimović scored his fourth goal of the night with an astonishing 30-yard overhead kick.
 
 

@@ -53,7 +53,7 @@ Finding a balance between reason and emotion might just be the most natural and 
 ----
 
 # Picture
-![Glory Within Reach, Yet Walking Away](uploads/zidane_worldcup.jpg)
+![Zinedine Zidane's Final Walk, 2006](uploads/zidane_worldcup.jpg)
 + July 9, 2006, Berlin Olympic Stadium. In the final match of his career, Zidane was sent off with a red card and walked past the World Cup trophy he had dreamed of so many times.
 
 ----

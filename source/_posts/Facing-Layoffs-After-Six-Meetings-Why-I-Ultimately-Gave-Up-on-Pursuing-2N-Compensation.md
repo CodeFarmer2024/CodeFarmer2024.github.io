@@ -53,7 +53,7 @@ categories: job
 
 # Picture
 
-![Gerrard's big mistake.](uploads/gerrard_mistake.jpg)
+![Steven Gerrard Slip, 2014](uploads/gerrard_mistake.jpg)
 
 + 4th minute of first-half stoppage time in the match between Liverpool and Chelsea in the 36th round of the 2013-2014 Premier League season
 
