@@ -85,7 +85,7 @@ Only when football becomes something that “happens naturally,” rather than s
 
 # Picture
 
-![Suárez bit Chiellini, 2014](uploads/Suárez_Bit_Chiellini.jpg)
+![Suárez bit Chiellini, 2014](uploads/Suarez_Bit_Chiellini.jpg)
 + During the 2014 FIFA World Cup group stage match between Uruguay and Italy, Uruguayan player Luis Suárez bit the shoulder of Italian player Giorgio Chiellini.
 
 
