@@ -1,7 +1,8 @@
 ---
 title: Source Bias and the Psychology of Trust in Information
 date: 2025-05-22 16:47:09
-tags:
+tags: [Source Bias, Psychology, Information Trust, Cognitive Bias, Media Influence]
+categories: [Thinking and Cognition]
 ---
 
 In the complex landscape of information exchange, the credibility of a message often depends not just on its content but also on its source. This phenomenon, widely recognized in psychology and communication studies, is essential for understanding human interactions, public opinion formation, and decision-making processes.

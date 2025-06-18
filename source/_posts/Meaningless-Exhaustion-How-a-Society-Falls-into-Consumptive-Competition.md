@@ -1,7 +1,8 @@
 ---
 title: 'Meaningless Exhaustion: How a Society Falls into Consumptive Competition'
 date: 2025-06-15 23:21:01
-tags:
+tags: [Consumptive Competition, Involution, Societal Issues, Workplace Pressure, Life Struggles, Systemic Trap, Social Critique]
+categories: [job, Thinking and Cognition]
 ---
 
 On this land, at once familiar and alien, people have long since learned how to run—yet forgotten why they ever started.

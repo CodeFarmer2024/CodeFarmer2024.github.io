@@ -3,7 +3,8 @@ title: >-
   Let’s See You Do Better! — A Full Guide to Classic Logical Fallacies on
   Football Forums
 date: 2025-05-14 12:26:00
-tags:
+tags: [Logical Fallacies, Football Forums, Debate, Critical Thinking, Psychology, Sports Culture]
+categories: [Thinking and Cognition, Sports Culture]
 ---
 
 

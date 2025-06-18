@@ -1,7 +1,8 @@
 ---
 title: 'Metaphor: The Boundary Between Understanding and Misleading'
 date: 2025-06-16 19:47:40
-tags:
+tags: [Metaphor, Communication, Cognition, Logic, Rhetoric, Misleading, Understanding]
+categories: [Thinking and Cognition]
 ---
 
 As a rhetorical device in language, metaphor is widely used in various types of texts, especially in academic writing, literature, and public speaking. Its main function is to make complex or abstract concepts easier to understand by comparing them to familiar or intuitive objects or experiences. However, the use of metaphor is not always harmless—if not employed carefully, it can shift from facilitating understanding to distorting perception. Thus, knowing how to use metaphors appropriately and avoiding their misuse is a key task in both thought and communication.

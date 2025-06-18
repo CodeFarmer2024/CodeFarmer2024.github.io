@@ -2,6 +2,7 @@
 title: Icons, Belief, and the Ideal Self
 date: 2025-04-13 11:47:26
 tags: [Idols, Self-awareness]
+categories: [Thinking and Cognition]
 ---
 
 When we're young, we love to talk about our idols. T-Mac, Kaká, Curry, Messi, Henry… the ones who shone bright on the court or field. They ran faster, jumped higher, showed unshakable will and stunning skills. To me, they were the reflection of the kind of person I hoped to become.

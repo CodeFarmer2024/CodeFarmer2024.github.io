@@ -1,7 +1,8 @@
 ---
 title: The World Is a Giant Probability System
 date: 2025-05-11 23:16:43
-tags:
+tags: [Probability, Systems Thinking, Decision Making, Risk, Cognitive Bias, Rationality, Philosophy]
+categories: [Thinking and Cognition]
 ---
 
 Almost every decision and outcome in our lives is not determined by certainty, but by probability. From the tiniest personal choices to sweeping societal shifts, what happens is rarely absolute—rather, it’s governed by likelihoods. Success, failure, and everything in between can often be traced back to how we navigate and interact with probabilities.

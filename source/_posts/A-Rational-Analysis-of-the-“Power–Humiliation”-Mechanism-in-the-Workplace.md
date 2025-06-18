@@ -1,7 +1,8 @@
 ---
 title: A Rational Analysis of the “Power–Humiliation” Mechanism in the Workplace
 date: 2025-06-14 14:38:51
-tags:
+tags: [Workplace Dynamics, Power, Humiliation, Organizational Culture, Psychology, Corporate Behavior, Workplace Pressure]
+categories: [job, Thinking and Cognition]
 ---
 
 

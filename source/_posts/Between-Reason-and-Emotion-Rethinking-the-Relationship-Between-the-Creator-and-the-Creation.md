@@ -4,6 +4,7 @@ title: >-
   and the Creation
 date: 2025-04-15 13:40:17
 tags: [ethics, creator vs creation, emotional intelligence]
+categories: [Thinking and Cognition]
 ---
 
 In today’s information-saturated world, where public figures often face backlash or “cancellation,” a recurring question emerges: *When a person is no longer deemed acceptable, should we still acknowledge or use the work they helped create?*  

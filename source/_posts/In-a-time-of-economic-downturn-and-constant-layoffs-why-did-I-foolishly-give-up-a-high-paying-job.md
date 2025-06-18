@@ -3,8 +3,8 @@ title: >-
   In a time of economic downturn and constant layoffs, why did I foolishly give
   up a high-paying job?
 date: 2024-09-27 17:16:18
-tags: [layoffs, resignation]
-categories: job
+tags: [layoffs, Resignation, High-paying Job, Economic Downturn, Career Change, Self-fulfillment, Life Purpose, Financial Freedom, Workplace Pressure] 
+categories: [job]
 ---
 
 >> Steve Jobs delivered a renowned speech at Stanford University's graduation ceremony, where he said: "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life."

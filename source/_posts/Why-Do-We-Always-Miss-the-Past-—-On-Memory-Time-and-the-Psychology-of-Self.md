@@ -2,6 +2,7 @@
 title: Why Do We Always Miss the Past? — On Memory, Time, and the Psychology of Self
 date: 2025-05-07 15:38:29
 tags: [Psychology, Nostalgia, Time Perception]
+categories: [Thinking and Cognition]
 ---
 
 ### I. Introduction: The Paradox of Nostalgia

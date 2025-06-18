@@ -2,7 +2,9 @@
 title: >-
   Why Does Chinese Football Keep Failing? The Real Problem Lies in a Systemic "Anti-Football Culture"
 date: 2025-05-15 21:05:17
-tags:
+tags: [Chinese Football, Systemic Issues, Anti-Football Culture, Social Problems, Sports Analysis, Culture]
+categories: [Thinking and Cognition, Sports Culture]
+
 ---
 
 The failure of Chinese football isn’t due to a few underperforming players, nor is it solely the result of corruption or tactical shortcomings. The root cause lies deeper—in a systemic mismatch between the societal environment and the nature of football itself. We might call this an "anti-football culture"—not because people dislike football, but because the system fundamentally lacks the soil and mechanisms needed to nurture success in the sport.

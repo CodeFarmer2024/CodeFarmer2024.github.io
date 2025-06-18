@@ -3,7 +3,8 @@ title: >-
   Wang Yangming's Philosophy of the Mind: Cultivating a Bright Heart, Walking a
   Clear Path in Life
 date: 2025-05-12 11:06:12
-tags:
+tags: [Wang Yangming, Philosophy, Mind Cultivation, Self-knowledge, Unity of Knowledge and Action, Innate Knowing, Personal Growth]
+categories: [Thinking and Cognition]
 ---
 
 In life, the hardest thing is to truly know yourself. The second hardest? To firmly stay true to yourself. Wang Yangming, through a life of trials and reflection, left us with a guiding philosophy for both—what he called *the learning of the mind* (*xin xue*).

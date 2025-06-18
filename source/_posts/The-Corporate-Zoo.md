@@ -1,7 +1,8 @@
 ---
 title: The Corporate Zoo
 date: 2025-05-08 22:07:02
-tags:
+tags: [Corporate Culture, Workplace Satire, Meaningless Work, Workplace Pressure, Self-awareness, Emotional Struggles, Labor Issues]
+categories: [job, Thinking and Cognition]
 ---
 
 In a tropical rainforest of technology, constructed from glass curtain walls and slogan banners, lived a group of peculiar creatures. They were known as “Efficiency Animals,” bred to generate virtual value for the “Vision Farm.” They had no names, only IDs: Developer Ape 101, Operations Goose 203, Design Fox 309, Data Bear 417…

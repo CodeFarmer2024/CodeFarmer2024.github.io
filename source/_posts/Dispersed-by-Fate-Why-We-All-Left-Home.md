@@ -1,7 +1,8 @@
 ---
 title: 'Dispersed by Fate: Why We All Left Home'
 date: 2025-06-14 16:58:42
-tags:
+tags: [Migration, Urbanization, Loneliness, Emotional Struggles, Life Struggles, Social Mobility, Hometown]
+categories: [job, Thinking and Cognition]
 ---
 
 

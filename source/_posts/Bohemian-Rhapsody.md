@@ -1,7 +1,8 @@
 ---
 title: Bohemian Rhapsody
 date: 2024-10-24 17:29:31
-tags:
+tags: [song]
+categories: [song]
 ---
 
 

@@ -2,6 +2,7 @@
 title: 'Faith: A Psychological Cue or the Wisdom of Humanity?'
 date: 2025-04-16 16:54:58
 tags: [Faith, BeliefSystems, Psychology]
+categories: [Thinking and Cognition]
 ---
 
 **Do we need faith?**  

@@ -1,7 +1,8 @@
 ---
 title: only my railgun
 date: 2024-08-27 14:50:20
-tags:
+tags: [song]
+categories: [song]
 ---
 
 ![](uploads/only_my_railgun.jpg)

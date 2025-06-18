@@ -1,7 +1,8 @@
 ---
 title: When Did We Start Seeing Life Again Amid Our Career Hustle?
 date: 2025-06-18 19:07:50
-tags:
+tags: [Career Hustle, Life Balance, Self-awareness, Emotional Struggles, Workplace Pressure, Personal Growth, Meaning of Life]
+categories: [job, Thinking and Cognition]
 ---
 
 

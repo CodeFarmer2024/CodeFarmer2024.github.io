@@ -3,8 +3,8 @@ title: >-
   Facing Layoffs: After Six Meetings, Why I Ultimately Gave Up on Pursuing 2N
   Compensation?
 date: 2024-09-29 21:04:20
-tags: [layoffs, resignation]
-categories: job
+tags: [Layoffs, Resignation, Compensation, Workplace Pressure, Labor Law, Stock Options, Emotional Struggles, Job Search] 
+categories: [job]
 ---
 
 
