@@ -2,7 +2,7 @@
 title: The Melody of Solitude
 date: 2025-04-10 19:04:19
 tags: [Loneliness, LifeStruggles, WorkplacePressure, EmotionalStruggles]
-categories: [Life]
+categories: [Life, Short Story]
 ---
 
 **"Stephen and Anna"**
