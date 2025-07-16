@@ -49,7 +49,7 @@ What makes death so powerful is not merely its arrival, but our tendency to forg
 ----
 
 # Picture
-![Diogo Jota scored a stoppage-time winner , 2023](uploads/diogo-jota-tottenham-lfc.jpg)
+![Diogo Jota scored a stoppage-time winner , 2023](uploads/diogo-jota-tottenham-lfc.png)
 + On April 30, 2023, in the 34th round of the Premier League, Liverpool hosted Tottenham at Anfield. Diogo Jota scored a stoppage-time winner in the 94th minute to seal a dramatic 4-3 victory.
 
 ----
