@@ -5,7 +5,6 @@ tags: [Death]
 categories: [Thinking and Cognition]
 ---
 
-
 For most people, death is a distant, abstract concept. We speak of it casually—"when the time comes," "after a hundred years"—as if it's a concern for some far-off future. But in certain moments when life is truly shaken, death suddenly feels near. Uncomfortably near. Near enough to suffocate. Near enough to make us realize that between us and the end lies only a breath, an accident, a message out of nowhere.
 
 ### I. From “Hearing About It” to “Feeling It”: The First Encounter with Death
