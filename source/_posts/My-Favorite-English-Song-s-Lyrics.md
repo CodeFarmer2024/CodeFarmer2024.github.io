@@ -1710,6 +1710,7 @@ I'm inconsolable, yeah, yeah
 
 **感觉就像是剪辑室里被删掉的一幕**
 🔹这是一句**电影隐喻**。“cutting room floor”指电影中剪掉的镜头，意味着这段感情仿佛无关紧要，被遗弃。
+
 > 在电影制作中，拍摄的许多镜头会被剪掉，不出现在成片中，这些被剪掉的镜头就“躺”在剪辑室地板上（cutting room floor）因此，“a scene on the cutting room floor” 成了“被舍弃、被抛弃”的隐喻说法。
 ---
 
@@ -1731,6 +1732,7 @@ I'm inconsolable, yeah, yeah
 
 **但时间停滞在关于你和我的回忆里**
 🔹字面上是“时钟卡住了”，实际上是**比喻**思绪卡在回忆中，“stuck on”翻译为“停滞在”，更能体现时间与心理的双重凝固。
+
 > “stuck” 的读音是：/stʌk/
 
 ---
@@ -1739,6 +1741,7 @@ I'm inconsolable, yeah, yeah
 
 **无数的悔意一一浮现，无法停止**
 🔹“unraveling”原意为“解开”，这里译为“浮现”表达心理状态更贴切。“no”作为语气词，表达否认或拒绝接受。
+
 > /ʌnˈrævəlɪŋ/ 
 
 ---
@@ -1775,6 +1778,7 @@ I'm inconsolable, yeah, yeah
 
 **我曾渴望的一切，其实都只是你，仅仅是你**
 🔹“comes right down to”是归结为的意思。用“其实都只是你”让感情更聚焦、真挚。
+
 > comes right down to you 直译是“最终归结到你身上”，意指“你是我一切愿望的核心和归宿”。
 ---
 
@@ -1796,6 +1800,7 @@ I'm inconsolable, yeah, yeah
 
 **我伤心欲绝，无法安慰自己**
 🔹“inconsolable”是极度悲伤的表达。译为“伤心欲绝”较为贴切原意，保留原句的情绪张力。
+
 > /ɪnˈkɒnsələbl/ （英式发音） 或 /ɪnˈkɑːnsələbl/ （美式发音）
 
 ---
@@ -1811,6 +1816,7 @@ I'm inconsolable, yeah, yeah
 
 **我看得见悬崖，却无法纵身一跃**
 🔹“edge”是比喻“崩溃的边缘”，“take the fall”可指“放手一搏”，这里表达挣扎与无力感。
+
 > 我能看到边缘，但无法承受那一跌
 
 ---
@@ -4761,6 +4767,7 @@ I'm subjected, expected to know what I feel
 **But what's I'm taking in trading, never sold my soul**
 **但无论我付出什么，我从未出卖自己的灵魂**
 🟡 *解释：*“sold my soul” 是个常见表达，指失去本心、向现实妥协；她在表明自己的坚持。
+
 > what I’m taking in trading：我在交换中得到的东西
 ---
 
@@ -4785,6 +4792,7 @@ I'm subjected, expected to know what I feel
 **I'm subjected, expected to know what I feel**
 **别人强加给我一种期待——要清楚自己的感受**
 🟡 *解释：*“subjected” 表示“被施加”、“被要求”；这句表达外界对她情绪掌控的强迫与误解。
+
 > 我被迫面对这一切，还被要求清楚自己的感受;  我既被裹挟其中，又被期待能搞清楚自己到底在想什么。
 > to know what I feel：希望我清楚自己内心的感受
 ---
@@ -4961,6 +4969,7 @@ Any way the wind blows
 **Any way the wind blows doesn't really matter to me, to me**
 风往哪儿吹对我来说都无所谓。
 👉 表现一种彻底的消极、放弃抵抗的态度。
+
 > Any way the wind blows：意为“无论风吹向何方”，象征命运飘忽、不可控。
 ---
 
